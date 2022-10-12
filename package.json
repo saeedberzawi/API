@@ -4,8 +4,14 @@
   "description": "my own api - first build alone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "netlify": "netlify dev"
   },
   "author": "Saeed Al_BerZawi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "netlify": "^13.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.7"
+  }
 }
