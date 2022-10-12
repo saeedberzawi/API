@@ -71,15 +71,15 @@
         "tools2": "css"
       },
       {
-        " id": 7,
-        " number": "7",
-        " about": "genuine-tec",
-        " url": "https://genuine-tec.netlify.app",
+        "id": 7,
+        "number": "7",
+        "about": "genuine-tec",
+        "url": "https://genuine-tec.netlify.app",
         "image": {
           "url": "https://live.staticflickr.com/65535/52422873135_fa9090cbf2_z.jpg"
         },
-        " tools": "react",
-        " tools2": "css"
+        "tools": "react",
+        "tools2": "css"
       },
       {
         "id": 8,
@@ -89,8 +89,8 @@
         "image": {
           "url": "https://live.staticflickr.com/65535/52422417486_0742b72b53_z.jpg"
         },
-        " tools": "react",
-        " tools2": "css"
+        "tools": "react",
+        "tools2": "css"
       },
       {
         "id": 9,
@@ -100,8 +100,8 @@
         "image": {
           "url": "https://live.staticflickr.com/65535/52421905347_c06c5c242b_z.jpg"
         },
-        " tools": "react",
-        " tools2": "css"
+        "tools": "react",
+        "tools2": "css"
       }
     ],
     "project": [
@@ -114,20 +114,20 @@
           "url": "https://live.staticflickr.com/65535/52422934673_99797fa285_z.jpg"
         },
         "tools": "react",
-        " tools2": "css",
+        "tools2": "css",
         "tools3": "API"
       },
       {
         "id": 11,
         "number": "11",
         "about": "search-Photos",
-        " url": "https://search-photo-br.netlify.app",
+        "url": "https://search-photo-br.netlify.app",
         "image": {
           "url": "https://live.staticflickr.com/65535/52422873455_ab93170a64_z.jpg"
         },
-        " tools": "react",
-        " tools2": "css",
-        " tools3": "API"
+        "tools": "react",
+        "tools2": "css",
+        "tools3": "API"
       },
       {
         "id": 12,
@@ -161,8 +161,8 @@
         "image": {
           "url": "https://live.staticflickr.com/65535/52421901047_513b96415c_c.jpg"
         },
-        " tools": "react",
-        " tools2": "css"
+        "tools": "react",
+        "tools2": "css"
       }
     ]
   }
