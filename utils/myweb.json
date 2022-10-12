@@ -7,7 +7,7 @@
         "about": "simple leon",
         "url": "https://simple-leon.netlify.app",
         "image": {
-          "url": "https://live.staticflickr.com/65535/52422703144_5316a0acc3_z.jpg"
+          "url": "https://live.staticflickr.com/65535/52422703144_79883e4a41_z.jpg"
         },
         "tools": "html",
         "tools2": "css"
@@ -18,7 +18,7 @@
         "about": "travel agency",
         "url": "https://saeedberzawi.github.io/Union-Travil",
         "image": {
-          "url": "https://live.staticflickr.com/65535/52422873025_468a382127_z.jpg"
+          "url": "https://live.staticflickr.com/65535/52422873025_130cf44606_z.jpg"
         },
         "tools": "html",
         "tools2": "css",
@@ -30,7 +30,7 @@
         "about": "kasper",
         "url": "https://kasper-br.netlify.app",
         "image": {
-          "url": "https://live.staticflickr.com/65535/52422703204_0503dbfec0_z.jpg"
+          "url": "https://www.flickr.com/photos/195761909@N03/52422703204/in/photostream/lightbox/"
         },
         "tools": "html",
         "tools2": "css"
@@ -83,7 +83,7 @@
       },
       {
         "id": 8,
-        "number": "8 *demo*",
+        "number": "8",
         "about": "union-resturant",
         "url": "https://union-brz-restaurant.netlify.app",
         "image": {
@@ -94,7 +94,7 @@
       },
       {
         "id": 9,
-        "number": "9 *demo*",
+        "number": "9",
         "about": "gerich-restaurant",
         "url": "https://gerich-restaurant-br.netlify.app",
         "image": {
