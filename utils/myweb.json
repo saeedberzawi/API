@@ -178,21 +178,21 @@
       }
     },
     {
-      "id": 2,
-      "name": "javaScript projects",
-      "url": "https://saeedberzawi.github.io/30-JavaScript",
-      "detail": "drum kit - clock - flex panel gallery - type ahead - dev tools dominaion - hold shift and check checkboxes - custom video player - key sequence detection - local storage - and more ...",
-      "video": {
-        "url": "https://disciples.netlify.app/assets/videos/2-JavaScript.mp4"
-      }
-    },
-    {
       "id": 3,
       "name": "react projects",
       "url": "https://al-berzawi.netlify.app/piza",
       "detail": "Dark Mode & Tarnslate - Color Generator - Search-Github-Users - Search-Photos - Search-Movies",
       "video": {
         "url": "https://disciples.netlify.app/assets/videos/3-react_compressed.mp4"
+      }
+    },
+    {
+      "id": 2,
+      "name": "javaScript projects",
+      "url": "https://saeedberzawi.github.io/30-JavaScript",
+      "detail": "drum kit - clock - flex panel gallery - type ahead - dev tools dominaion - hold shift and check checkboxes - custom video player - key sequence detection - local storage - and more ...",
+      "video": {
+        "url": "https://disciples.netlify.app/assets/videos/2-JavaScript.mp4"
       }
     },
     {
