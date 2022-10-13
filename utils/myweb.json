@@ -68,7 +68,8 @@
           "url": "https://live.staticflickr.com/65535/52422932923_0eb62ef164_z.jpg"
         },
         "tools": "react",
-        "tools2": "css"
+        "tools2": "css",
+        "tools3": "Not Responsive"
       },
       {
         "id": 7,
@@ -165,5 +166,43 @@
         "tools2": "css"
       }
     ]
-  }
+  },
+  "mainpage": [
+    {
+      "id": 1,
+      "name": "web sites",
+      "url": "https://al-berzawi.netlify.app/websit",
+      "detail": "",
+      "video": {
+        "url": "https://disciples.netlify.app/assets/videos/1-website_compressed.mp4"
+      }
+    },
+    {
+      "id": 2,
+      "name": "javaScript projects",
+      "url": "https://saeedberzawi.github.io/30-JavaScript",
+      "detail": "",
+      "video": {
+        "url": "https://disciples.netlify.app/assets/videos/2-JavaScript.mp4"
+      }
+    },
+    {
+      "id": 3,
+      "name": "react projects",
+      "url": "https://al-berzawi.netlify.app/piza",
+      "detail": "",
+      "video": {
+        "url": "https://disciples.netlify.app/assets/videos/3-react_compressed.mp4"
+      }
+    },
+    {
+      "id": 4,
+      "name": "e-commerce",
+      "url": "https://somfy-e-commerce-br.netlify.app",
+      "detail": "",
+      "video": {
+        "url": "https://disciples.netlify.app/assets/videos/e-commerce_compressed.mp4"
+      }
+    }
+  ]
 }
