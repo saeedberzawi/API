@@ -171,7 +171,8 @@
     {
       "id": 1,
       "name": "web sites",
-      "url": "https://al-berzawi.netlify.app/website",
+      "link": "/website",
+
       "detail": "Gerich-Restaurant - Union-Resturant - Genuine-Tec - Ecorik - Gaming-Moudal - Construction-Co - Kasper - Travel Agency - Simple Leon",
       "video": {
         "url": "https://saeedberzawi.github.io/Disciples/assets/videos/1-website.mp4"
@@ -180,7 +181,8 @@
     {
       "id": 3,
       "name": "react projects",
-      "url": "https://al-berzawi.netlify.app/piza",
+      "link": "/piza",
+      
       "detail": "Dark Mode & Tarnslate - Color Generator - Search-Github-Users - Search-Photos - Search-Movies",
       "video": {
         "url": "https://disciples.netlify.app/assets/videos/3-react_compressed.mp4"
