@@ -182,7 +182,7 @@
       "id": 3,
       "name": "react projects",
       "link": "/piza",
-      
+
       "detail": "Dark Mode & Tarnslate - Color Generator - Search-Github-Users - Search-Photos - Search-Movies",
       "video": {
         "url": "https://disciples.netlify.app/assets/videos/3-react_compressed.mp4"
@@ -191,6 +191,7 @@
     {
       "id": 2,
       "name": "javaScript projects",
+      "link": "",
       "url": "https://saeedberzawi.github.io/30-JavaScript",
       "detail": "drum kit - clock - flex panel gallery - type ahead - dev tools dominaion - hold shift and check checkboxes - custom video player - key sequence detection - local storage - and more ...",
       "video": {
@@ -200,6 +201,7 @@
     {
       "id": 4,
       "name": "e-commerce",
+      "link": "",
       "url": "https://somfy-e-commerce-br.netlify.app",
       "detail": "SomfySloth_e-Commerce - Dealing With API, Axois, Searching For A Specific Github Users",
       "video": {
