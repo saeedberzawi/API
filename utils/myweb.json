@@ -164,6 +164,17 @@
         },
         "tools": "react",
         "tools2": "css"
+      },
+      {
+        "id": 15,
+        "number": "6",
+        "about": "Motion Effect",
+        "url": "https://saeedberzawi.github.io/framer-motion",
+        "image": {
+          "url": "https://disciples.netlify.app/assets/images/Pizza.jpg"
+        },
+        "tools": "react",
+        "tools2": "css"
       }
     ]
   },
