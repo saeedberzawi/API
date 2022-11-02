@@ -168,13 +168,14 @@
       {
         "id": 15,
         "number": "6",
-        "about": "Motion Effect",
+        "about": "Pizza Order",
         "url": "https://saeedberzawi.github.io/framer-motion",
         "image": {
           "url": "https://disciples.netlify.app/assets/images/Pizza.jpg"
         },
         "tools": "react",
-        "tools2": "css"
+        "tools2": "css",
+        "tools3": "Motion-Effect"
       }
     ]
   },
