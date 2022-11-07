@@ -176,6 +176,18 @@
         "tools": "react",
         "tools2": "css",
         "tools3": "Motion-Effect"
+      },
+      {
+        "id": 16,
+        "number": "7",
+        "about": "Brand Motion-Effect",
+        "url": "https://ollie-loading-page.netlify.app",
+        "image": {
+          "url": "https://disciples.netlify.app/assets/images/brand.png"
+        },
+        "tools": "react",
+        "tools2": "scss",
+        "tools3": "Motion-Effect"
       }
     ]
   },
