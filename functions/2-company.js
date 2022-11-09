@@ -19,11 +19,11 @@ exports.handler = async (event, context, cb) => {
         phone2,
         email,
         website,
-        image,
+        // image,
         categories,
         villag,
       } = com.fields;
-        // const img = image[0].url;
+      // const img = image[0];
       return {
         id,
         name,
@@ -35,7 +35,7 @@ exports.handler = async (event, context, cb) => {
         website,
         categories,
         villag,
-        image,
+        // image,
       };
     });
     // console.log(comp);
