@@ -22,6 +22,7 @@ exports.handler = async (event, context, cb) => {
         // image,
         categories,
         villag,
+        test,
       } = com.fields;
       // const img = image[0];
       return {
@@ -35,6 +36,7 @@ exports.handler = async (event, context, cb) => {
         website,
         categories,
         villag,
+        test,
         // image,
       };
     });
