@@ -24,7 +24,7 @@ exports.handler = async (event, context, cb) => {
         villag,
         test,
       } = com.fields;
-      const img = image[0];
+      const img = image[0].url;
       return {
         id,
         name,
