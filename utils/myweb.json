@@ -103,11 +103,34 @@
         },
         "tools": "react",
         "tools2": "css"
+      },
+      {
+        "id": 10,
+        "number": "10",
+        "about": "makarem school",
+        "url": "https://earnest-fairy.netlify.app",
+        "image": {
+          "url": "https://disciples.netlify.app/assets/images/makrem.jpg"
+        },
+        "tools": "react",
+        "tools2": "css"
+      },
+      {
+        "id": 11,
+        "number": "11",
+        "about": "Andazeary",
+        "url": "https://andazeary.netlify.app",
+        "image": {
+          "url": "https://disciples.netlify.app/assets/images/Andazeary.jpg"
+        },
+        "tools": "react",
+        "tools2": "css",
+        "tools3": "Not Responsive"
       }
     ],
     "project": [
       {
-        "id": 10,
+        "id": 1,
         "number": "1",
         "about": "search-Movies",
         "url": "https://search-movies-br.netlify.app",
@@ -119,7 +142,7 @@
         "tools3": "API"
       },
       {
-        "id": 11,
+        "id": 2,
         "number": "2",
         "about": "search-Photos",
         "url": "https://search-photo-br.netlify.app",
@@ -131,7 +154,7 @@
         "tools3": "API"
       },
       {
-        "id": 12,
+        "id": 3,
         "number": "3",
         "about": "search-Github-Users",
         "url": "https://search-github-users-br.netlify.app",
@@ -143,7 +166,7 @@
         "tools3": "API"
       },
       {
-        "id": 13,
+        "id": 4,
         "number": "4",
         "about": "dark mode & tarnslate",
         "url": "https://darkmode-translate.netlify.app",
@@ -155,7 +178,7 @@
         "tools3": ""
       },
       {
-        "id": 14,
+        "id": 5,
         "number": "5",
         "about": "color generator",
         "url": "https://colors-generator-br.netlify.app",
@@ -166,7 +189,7 @@
         "tools2": "css"
       },
       {
-        "id": 15,
+        "id": 6,
         "number": "6",
         "about": "Pizza Order",
         "url": "https://saeedberzawi.github.io/farmermotion",
@@ -178,7 +201,7 @@
         "tools3": "Motion-Effect"
       },
       {
-        "id": 16,
+        "id": 7,
         "number": "7",
         "about": "Brand Motion-Effect",
         "url": "https://ollie-loading-page.netlify.app",
@@ -188,6 +211,54 @@
         "tools": "react",
         "tools2": "scss",
         "tools3": "Motion-Effect"
+      },
+      {
+        "id": 8,
+        "number": "8",
+        "about": "Quiz",
+        "url": "https://project-react-br.netlify.app/quize",
+        "image": {
+          "url": "https://disciples.netlify.app/assets/images/quize.jpg"
+        },
+        "tools": "react",
+        "tools2": "css",
+        "tools3": "API"
+      },
+      {
+        "id": 9,
+        "number": "9",
+        "about": "pagination",
+        "url": "https://project-react-br.netlify.app/pagination",
+        "image": {
+          "url": ""
+        },
+        "tools": "react",
+        "tools2": "css",
+        "tools3": "API"
+      },
+      {
+        "id": 10,
+        "number": "10",
+        "about": "hacker news",
+        "url": "https://project-react-br.netlify.app/hacker",
+        "image": {
+          "url": ""
+        },
+        "tools": "react",
+        "tools2": "css",
+        "tools3": "API"
+      },
+      {
+        "id": 11,
+        "number": "11",
+        "about": "cart",
+        "url": "https://project-react-br.netlify.app/cart",
+        "image": {
+          "url": ""
+        },
+        "tools": "react",
+        "tools2": "css",
+        "tools3": ""
       }
     ]
   },
