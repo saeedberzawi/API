@@ -4,7 +4,8 @@
   "description": "my own api - first build alone",
   "main": "index.js",
   "scripts": {
-    "netlify": "netlify dev"
+    "netlify": "netlify dev",
+    "build": "CI= react-scripts build"
   },
   "author": "Saeed Al_BerZawi",
   "license": "ISC",
