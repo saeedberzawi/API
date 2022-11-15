@@ -21,7 +21,7 @@ exports.handler = async (event, context, cb) => {
         website,
         image,
         categories,
-        villag,
+        village,
         test,
       } = com.fields;
       const img = image[0].url;
@@ -35,7 +35,7 @@ exports.handler = async (event, context, cb) => {
         email,
         website,
         categories,
-        villag,
+        village,
         test,
         img,
       };
