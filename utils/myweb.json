@@ -254,11 +254,11 @@
         "about": "cart",
         "url": "https://project-react-br.netlify.app/cart",
         "image": {
-          "url": ""
+          "url": "https://disciples.netlify.app/assets/images/cart.jpg"
         },
         "tools": "react",
-        "tools2": "css",
-        "tools3": ""
+        "tools2": "redux",
+        "tools3": "css"
       }
     ]
   },
@@ -266,7 +266,7 @@
     {
       "id": 1,
       "name": "web sites",
-      "link": "/website",
+      "link": "website",
       "url": "",
       "detail": "Gerich-Restaurant - Union-Resturant - Genuine-Tec - Ecorik - Gaming-Moudal - Construction-Co - Kasper - Travel Agency - Simple Leon",
       "video": {
@@ -276,7 +276,7 @@
     {
       "id": 2,
       "name": "react projects",
-      "link": "/piza",
+      "link": "reactproject",
       "url": "",
       "detail": "Dark Mode & Tarnslate - Color Generator - Search-Github-Users - Search-Photos - Search-Movies",
       "video": {
